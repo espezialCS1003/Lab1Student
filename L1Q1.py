@@ -1,5 +1,11 @@
-# Your Student Name, Your Student Number
-# Your Partner's Name, Your Partner's Number
-# Your Other Partner's Name, Your Other Partner's Number (delete if no other partner)
+# Erik Speziale, 3696656
+# Braden Benner, 3681662
 
 # Write your code for Question 1 below
+print('********* ********')
+print('*         *       *')
+print('*         *       *')
+print('******    ********')
+print('*         *       *')
+print('*         *       *')
+print('********* ********')
